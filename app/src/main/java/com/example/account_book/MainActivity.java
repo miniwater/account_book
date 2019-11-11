@@ -109,6 +109,7 @@ public class MainActivity extends AppCompatActivity {
                 Log.v("list", lists[i].getPassword());
                 Log.v("list", lists[i].getNote());
                 i++;
+
             } while (cursor.moveToNext());
             cursor.close();
         }
