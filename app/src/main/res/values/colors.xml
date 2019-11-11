@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="addTextColor">#444444</color>
+    <color name="background">#fafafa</color>
+    <color name="white">#FFFFFF</color>
+    <color name="butColorHighlight">#00584c</color>
+    <color name="butColor">#eaeaea</color>
+    <color name="mainCardBackground">#4f9b43</color>
+    <color name="copyButtonColorHighlight"></color>
+
+</resources>
